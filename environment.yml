@@ -1,0 +1,16 @@
+name: envGeo
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pip:
+    - jupyterlab
+    - numpy
+    - pandas
+    - matplotlib
+    - scipy
+    - geopy
+    - geopandas
+    - geoplot
+    - succolib

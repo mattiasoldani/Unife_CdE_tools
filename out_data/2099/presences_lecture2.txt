@@ -1,0 +1,10 @@
+   0, Chaplin,     Charlie,       absent
+   1, Titor,       John,          
+   2, Oppenheimer, Robert,        
+   3, Bacon,       Chris P.,      
+   4, Lagianotti,  Fabio,         
+   5, Barbie,      Barbie,        absent
+   6, Dio,         Gesù,          
+   7, Bini,        Domenico,      
+   8, Puccio,      Succo,         
+   9, Silver,      Long John,     

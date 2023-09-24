@@ -1,0 +1,9 @@
+   0, Chaplin, Charlie, Volta_Como, 2, 4
+   1, Titor, John, Volta_Como, 2, 4
+   2, Oppenheimer, Robert, Volta_Como, 3, 6
+   3, Bacon, Chris P., Ariosto_Ferrara, 3, 6
+   4, Lagianotti, Fabio, Volta_Como, 3, 6
+   6, Dio, Gesù, LOCATION_MISSING/SS19510, 2, 4
+   7, Bini, Domenico, Ariosto_Ferrara, 2, 4
+   8, Puccio, Succo, Ariosto_Ferrara, 2, 4
+   9, Silver, Long John, Ariosto_Ferrara, 3, 6

@@ -2,7 +2,7 @@
 
 [![python](https://img.shields.io/badge/python->=3-blue.svg)](https://www.python.org/) [![anaconda](https://img.shields.io/badge/anaconda-3-blue.svg)](https://www.anaconda.com/)
 
-This is a set of tools developed for the 2021 and 2022 editions of the [Corso di Eccellenza in Fisica](https://www.fe.infn.it/orientamento_fisica/?page_id=4334) by Università degli Studi di Ferrara to manage the subscriptions, analyse the participation data of the attendees and generate their final diplomas. In particular
+This is a set of Jupyter-based tools developed for the 2021 and 2022 editions of the [Corso di Eccellenza in Fisica](https://www.fe.infn.it/orientamento_fisica/?page_id=4334) by Università degli Studi di Ferrara to manage the subscriptions, analyse the participation data of the attendees and generate their final diplomas. In particular
 
 - `analisi_presenze.ipynb` analyses the subscription and attendance data and their (string-pattern-based) matching, producing an attendee-by-attendee report;
 - `final_report.ipynb` aggregates the output data of the attendance analysis (`analisi_presenze.ipynb`) and produces a global summary of the participation based on the geographical information of the home institutions of the attendees;

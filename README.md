@@ -16,6 +16,6 @@ Notes:
 - An Anaconda environment installer is provided: `environment.yml`;
 - All the data visualisation (matplotlib) and geospatial (geopandas, geoplot, geopy) tools are only required in the aggregated analysis and can be neglected if not running `final_report.ipynb`.
 
-Further information on the data flow and processing is provided in the comments inside the notebooks. Sample data are provided in all data folders, with year label 2099.
+Further information on the data flow and processing is provided in the comments inside the notebooks. Sample data are provided in all data folders, with year label 2099. Moreover, map files from [sramazzina/italian-maps-shapefiles](https://github.com/sramazzina/italian-maps-shapefiles) have been used.
 
 Found a bug? Or simply have any questions, comments or suggestions you'd like to talk about? Feel free to contact me at <mattiasoldani93@gmail.com>. And brace yourself, for the best is yet to come!

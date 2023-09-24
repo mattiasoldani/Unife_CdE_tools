@@ -4,7 +4,7 @@
 
 This is a set of tools developed for the 2021 and 2022 editions of the [Corso di Eccellenza in Fisica](https://www.fe.infn.it/orientamento_fisica/?page_id=4334) by Università degli Studi di Ferrara to manage the subscriptions, analyse the participation data of the attendees and generate their final diplomas. In particular
 
-- `analisi_presenze.ipynb` analyses the subscription and attendance data and their matching, producing an attendee-by-attendee report;
+- `analisi_presenze.ipynb` analyses the subscription and attendance data and their (string-pattern-based) matching, producing an attendee-by-attendee report;
 - `final_report.ipynb` aggregates the output data of the attendance analysis (`analisi_presenze.ipynb`) and produces a global summary of the participation based on the geographical information of the home institutions of the attendees;
 - `diplomas.ipynb` takes the output data of the attendance analysis (`analisi_presenze.ipynb`) and generates a certificate of attendance for each attendee in PDF.
 
@@ -15,3 +15,7 @@ Basic dependencies:
 Notes:
 - An Anaconda environment installer is provided: `environment.yml`;
 - All the data visualisation (matplotlib) and geospatial (geopandas, geoplot, geopy) tools are only required in the aggregated analysis and can be neglected if not running `final_report.ipynb`.
+
+Further information on the data flow and processing is provided in the comments inside the notebooks. Sample data are provided in all data folders, with year label 2099.
+
+Found a bug? Or simply have any questions, comments or suggestions you'd like to talk about? Feel free to contact me at <mattiasoldani93@gmail.com>. And brace yourself, for the best is yet to come!
